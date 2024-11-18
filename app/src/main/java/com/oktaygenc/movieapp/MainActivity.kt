@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         binding.toolbar.addView(titleTextView)
 
+        //oktay ve onur
+
 //        supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }
 }
