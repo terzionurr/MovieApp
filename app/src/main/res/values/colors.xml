@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="Background">#242A32</color>
     <color name="color_selected">#0296E5</color>
+    <color name="color_star">#FF8700</color>
+    <color name="item_view_color">#EEEEEE</color>
 </resources>

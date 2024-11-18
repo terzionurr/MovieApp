@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Movie App</string>
     <string name="splash_screen_image">Splash Screen Image</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="spiderman">Spiderman</string>
+    <string name="_9_5">9.5</string>
+    <string name="action">Action</string>
+    <string name="_2019">2019</string>
+    <string name="_139_minutes">139 minutes</string>
 </resources>
