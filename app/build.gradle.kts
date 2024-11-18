@@ -51,8 +51,8 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation(libs.retrofit)
-    implementation(libs.converter.gson)
     implementation(libs.glide)
+    implementation(libs.retrofit2.converter.gson)
 
     // Room
     implementation(libs.androidx.room.runtime)
